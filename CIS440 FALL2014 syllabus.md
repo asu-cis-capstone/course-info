@@ -73,6 +73,7 @@ Grades will be assigned based on the following scale:
 Course assignments are weighted toward the final grade as follows:
 
 **Individual Assignments (25%)**
+
 | Assignment | Due Date | Points |
 |:---------- |:--------:|:------:|
 | Information Radiator | Sept. 25 | 5 |
@@ -80,6 +81,7 @@ Course assignments are weighted toward the final grade as follows:
 | Personal Website | Nov. 25 | 8 |
 
 **Team Assignments (48%)**
+
 | Assignment | Due Date | Points |
 |:---------- |:--------:|:------:|
 | Version 0.1 | Sept. 9 | 5 |
@@ -93,6 +95,7 @@ Course assignments are weighted toward the final grade as follows:
 | Personal Website | Nov. 25 | 8 |
 
 **Other Assessments (28%)**
+
 | Assignment | Due Date | Points |
 |:---------- |:--------:|:------:|
 | Tech Talk | various | 8 |
