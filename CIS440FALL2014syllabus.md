@@ -1,25 +1,13 @@
-#CIS 440 – Systems Design and Electronic Commerce  
+###CIS 440 – Systems Design and Electronic Commerce  
+Fall 2014 Syllabus
 
-This repository contains course materials for CIS440 students, including the syllabus, schedule, and assignments.  To get the latest versions, install git on your system and at the command line type:
-
-    git clone https://github.com/asu-cis-capstone/course-info.git
-
-Or just use the "Download ZIP" button at right.
-
-###TODO:
-1. These files are currently in some Github-unfriendly formats: XLSX, PDF, DOC.  I'd like to see them converted into Markdown or some other text-based format so you can view them on screen and see the changes from version to version.
-
--------------
-
-###Fall 2014 Syllabus
-
-**Professor:**  Joseph W. Clark
-**Office:** BA 301J
-**Office Phone:**  480-965-0024
-**Office Hours:**  10am-12pm, daily	
-**E-mail:**  joseph.w.clark@asu.edu
-**Github Account:**  joeclark-phd
-**Twitter:** @joeclarknet
+**Professor:**  Joseph W. Clark  
+**Office:** BA 301J  
+**Office Phone:**  480-965-0024  
+**Office Hours:**  10am-12pm, daily	  
+**E-mail:**  joseph.w.clark@asu.edu  
+**Github Account:**  joeclark-phd  
+**Twitter:** @joeclarknet  
 **Website:** www.joeclark.net
 
 Course Materials at GitHub:  https://github.com/asu-cis-capstone/course-info 
@@ -45,7 +33,7 @@ One textbook is required reading for this course:
 1. *The Elements of Scrum (Version 1.01)*, by Chris Sims & Hillary Louise Johnson.  Dymaxicon, 2011.   ISBN: 978-0-9828669-1-7   ($27 on Amazon)
 
 ####Course Schedule
-Posted to GitHub at https://github.com/asu-cis-capstone/course-info/CIS440FALL2014schedule.pdf 
+Posted to GitHub at https://github.com/asu-cis-capstone/course-info/blob/master/CIS440FALL2014schedule.pdf
 
 ####W. P. Carey School Learning Objectives
 The Undergraduate Program of the W. P. Carey School of Business has established the following learning goals for its graduates:
