@@ -41,13 +41,15 @@ This course is the capstone of your CIS degree program and you are expected to p
 
 ####Course Materials 
 One textbook is required reading for this course:
-1. The Elements of Scrum (Version 1.01), by Chris Sims & Hillary Louise Johnson.  Dymaxicon, 2011.   ISBN: 978-0-9828669-1-7   ($27 on Amazon)
+
+1. *The Elements of Scrum (Version 1.01)*, by Chris Sims & Hillary Louise Johnson.  Dymaxicon, 2011.   ISBN: 978-0-9828669-1-7   ($27 on Amazon)
 
 ####Course Schedule
 Posted to GitHub at https://github.com/asu-cis-capstone/course-info/CIS440FALL2014schedule.pdf 
 
 ####W. P. Carey School Learning Objectives
 The Undergraduate Program of the W. P. Carey School of Business has established the following learning goals for its graduates:
+
 **1. Critical thinking
 2. Communication
 3. Discipline specific knowledge
@@ -58,15 +60,15 @@ All five items have significant coverage in this course.
 ####Grade Breakdown
 Grades will be assigned based on the following scale:
 
-<60: E
-60-69.99: D
-70-76.99: C
-77-79.99: C+
-80-82.99: B-
-83-86.99: B
-87-89.99: B+
-90-92.99: A-
-93-96.99: A
+<60: E  
+60-69.99: D  
+70-76.99: C  
+77-79.99: C+  
+80-82.99: B-  
+83-86.99: B  
+87-89.99: B+  
+90-92.99: A-  
+93-96.99: A  
 97+: A+
 
 ####Assignments
@@ -110,9 +112,9 @@ One of my jobs is to help you deal with obstacles and get the resources or help 
 ####Examinations 
 There is one final exam at the end of the course:
 - CIS Critical Skills Assessment:  There are several skills that are critical and foundational to the discipline of Information Systems and the practices of systems analysis and design, and mastery of these skills is our expectation for anyone possessing a degree certifying completion of a BS in Computer Information Systems from the W.P. Carey School of Business at Arizona State University.  To assure mastery of these skills, students will be given a skills assessment exam wherein they are presented with a business case study and expected to answer a series of questions that assess their level of competence with:
-- - Identification of business information systems requirements and proposal of appropriate information systems solutions.
-- - Using established methodologies for analysis and design of proposed solutions.
-- - Selecting an appropriate project management methodology, explaining the critical issues and uncertainties that will determine project success, and communicating these issues in business terms.
+    - Identification of business information systems requirements and proposal of appropriate information systems solutions.
+    - Using established methodologies for analysis and design of proposed solutions.
+    - Selecting an appropriate project management methodology, explaining the critical issues and uncertainties that will determine project success, and communicating these issues in business terms.
 NOTE: This material is not an exam based only on CIS440 material, but instead is meant to evaluate the skills you have learned from the entire CIS undergraduate program.  You may bring any books or other references that you wish.
 	
 ####Group Policies 
