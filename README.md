@@ -10,3 +10,14 @@ Or just use the "Download ZIP" button at right.
 TODO
 ====
 These files are currently in some Github-unfriendly formats: XLSX, PDF, DOC.  I'd like to see them converted into Markdown or some other text-based format so you can view them on screen and see the changes from version to version.
+
+
+
+This is a test:
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+
+
