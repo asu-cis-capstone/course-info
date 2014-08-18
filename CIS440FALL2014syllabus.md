@@ -1,5 +1,5 @@
 ###CIS 440 – Systems Design and Electronic Commerce  
-Fall 2014 Syllabus
+###Fall 2014 Syllabus
 
 **Professor:**  Joseph W. Clark  
 **Office:** BA 301J  
