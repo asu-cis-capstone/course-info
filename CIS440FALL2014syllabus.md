@@ -103,16 +103,21 @@ There is one final exam at the end of the course:
     - Identification of business information systems requirements and proposal of appropriate information systems solutions.
     - Using established methodologies for analysis and design of proposed solutions.
     - Selecting an appropriate project management methodology, explaining the critical issues and uncertainties that will determine project success, and communicating these issues in business terms.
+
 NOTE: This material is not an exam based only on CIS440 material, but instead is meant to evaluate the skills you have learned from the entire CIS undergraduate program.  You may bring any books or other references that you wish.
 	
 ####Group Policies 
-You will form groups of four to six members for the course project.  When forming groups it is strongly recommended that you communicate frankly about expectations and identify any potential problems early on.  Do not wait until the end of the semester to ask for help with a teammate issue!  
+You will form groups of four to six members for the course project.  It is important to be professional when dealing with the client, and to make sure you are working well with your teammates.  When forming teams, it is *strongly* recommended that you communicate frankly about expectations and identify any potential problems early on.  
 
-####If You Are Kicked Off A Project Team
-A student may be kicked off a project team if the client insists, or if the other teammates unanimously agree that he/she is either disruptive or not contributing to the work, subject to my agreement.  This it is important to be professional when dealing with the client and to make sure you are working well with your teammates.  If a student is kicked off his team, I may (at my discretion) propose an alternative project for the student to be able to complete the course.  It will likely be difficult and the grading will be subjective, so I strongly recommend not getting into this situation.
+A student may be **kicked off the project team** either (1) if the client insists, or (2) if the other teammates unanimously agree to kick him for being disruptive or not contributing to the work, subject to my agreement.  If a student is kicked off his team, I may (at my discretion) propose an alternative project for the student to be able to complete the course.  It will likely be difficult and the grading will be subjective, so I strongly recommend not getting into this situation.  If you do perceive a problem to be developing, ask for help before it is too late.
+
+####Late Work
+Most assignments are due at the end of the day on the due date (i.e. midnight).  If I receive them late within the next 7 days, I'll accept them but take 25% off.  I usually don't accept work later than 7 days after the due date.  Work that is due to be delivered during class time (i.e. presentations) cannot be accepted late.  Contact me if you need an accommodation for some kind of emergency.
 
 ####Class Attendance and Participation 
-Class attendance is necessary to achieve the maximum benefit from this class. You are expected to attend every class. Excessive absences will affect a student’s course grade and/or result in removal from the course.  If a student is unable to attend class for any reason, they should notify the instructor and their teammates as soon as possible by email.
+Class attendance is necessary to achieve the maximum benefit from this class. You are expected to attend every class. Excessive absences will affect a student’s course grade and/or result in removal from the course.  If a student is unable to attend class for any reason, they should notify the instructor and their teammates as soon as possible by email.  In accordance with ASU policies, accommodations will be made for students observing religious holidays, or missing class related to university-sanctioned activities.  Please let me know as early as possible.
+- ASU calendar of religious holidays (sorry, Pastafarians): https://provost.asu.edu/index.php?q=religious-holiday-calendar
+- Policy on university-sanctioned activities (ACD 304-02): http://www.asu.edu/aad/manuals/acd/acd304-02.html
 
 ####Academic Integrity  
 From the ASU General Catalog:  “The highest standards of academic integrity are expected of all students. Failure to meet these standards may result in suspension or expulsion from the university and other sanctions as specified in the academic integrity policies of the individual colleges.”  By law and regulation, this course will be conducted within the ethical standards of ASU at large, which preclude such activities as plagiarism, cheating, and various forms of harassment.  Statement/policy on these issues:    http://provost.asu.edu/academicintegrity
