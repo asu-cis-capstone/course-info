@@ -4,7 +4,7 @@
 **Professor:**  Joseph W. Clark  
 **Office:** BA 301J  
 **Office Phone:**  480-965-0024  
-**Office Hours:**  10am-12pm, daily	  
+**Office Hours:**  10am-12pm, M/W/F, or by appointment	  
 **E-mail:**  joseph.w.clark@asu.edu  
 **Github Account:**  joeclark-phd  
 **Twitter:** @joeclarknet  
@@ -37,12 +37,15 @@ Posted to GitHub at https://github.com/asu-cis-capstone/course-info/blob/master/
 
 ####W. P. Carey School Learning Objectives
 The Undergraduate Program of the W. P. Carey School of Business has established the following learning goals for its graduates:
+**
 
-**1. Critical thinking
+1. Critical thinking
 2. Communication
 3. Discipline specific knowledge
 4. Ethical awareness and reasoning
-5. Global awareness**
+5. Global awareness
+
+**
 All five items have significant coverage in this course.
 
 ####Grade Breakdown
