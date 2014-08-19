@@ -37,7 +37,6 @@ Posted to GitHub at https://github.com/asu-cis-capstone/course-info/blob/master/
 
 ####W. P. Carey School Learning Objectives
 The Undergraduate Program of the W. P. Carey School of Business has established the following learning goals for its graduates:
-**
 
 1. Critical thinking
 2. Communication
@@ -45,7 +44,6 @@ The Undergraduate Program of the W. P. Carey School of Business has established 
 4. Ethical awareness and reasoning
 5. Global awareness
 
-**
 All five items have significant coverage in this course.
 
 ####Grade Breakdown
@@ -85,7 +83,6 @@ Course assignments are weighted toward the final grade as follows:
 | Version 0.6 | Nov. 18 | 5 |
 | Version 1.0 | Dec. 2 | 8 |
 | Capstone Project Report | Dec. 4 | 10 |
-| Personal Website | Nov. 25 | 8 |
 
 **Other Assessments (28%)**
 
