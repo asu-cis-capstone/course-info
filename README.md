@@ -8,7 +8,8 @@ Or just use the "Download ZIP" button at right.
 
 ###Files
 
-- Syllabus: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440FALL2014syllabus.md
+- Syllabus: Click CIS440FALL2014syllabus.md
+    - Printable: https://gitprint.com/asu-cis-capstone/course-info/blob/master/CIS440FALL2014syllabus.md
 - Schedule: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440FALL2014schedule.pdf
     - (click "View Raw" to get the PDF)
 
