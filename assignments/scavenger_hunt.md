@@ -5,6 +5,8 @@ The purpose of this challenge is to help you transition from your student role i
 
 Over the course of the semester, attend three professional meetups or user group meetings.  There are dozens of these meetings on technology and business topics in the Phoenix area.  For each one, write a couple of paragraphs about what the group was, where and when, what the speaker topic was, and your general impressions of the meeting.  Tell us if you'd recommend this group for other students.  Submit these write-ups via Blackboard (1 file, 3 files, whatever works).
 
+I recommend you bring business cards, network, and just see who you meet and what you learn.  Now you have a real project to talk about, so talk about it!
+
 Here's a list of meetups that I know about:
 
 - Phoenix Scrum Users Group (http://phxsug.org)
@@ -21,7 +23,7 @@ Here's a list of meetups that I know about:
 
 I have been asked to make a couple of policies for other types of events.  This is what I've decided:
 
-- Training sessions at work, or provided by vendors, do NOT count.
-- Attending a professional conference may count for one of your required visits per day of the conference.  If it's a three-day conference, write about three of the sessions you attended and that will satisfy the requirement.
+- Training sessions at work, or provided by vendors, do *not* count.
+- Attending a professional conference may count for one of your required visits *per day of the conference* provided you attend sessions each day.  If it's a three-day conference, write about three of the sessions you attended and that will satisfy the requirement.
 - **Desert Code Camp** on Saturday, October 18, is a free, one-day conference for all kinds of techies in the Phoenix area.  I like it so much, I'll let you count *two* of the sessions toward this assignment even though they're on the same day. See: http://oct2014.desertcodecamp.com/home
 
