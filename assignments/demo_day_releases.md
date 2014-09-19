@@ -25,20 +25,36 @@ Grading criteria:  good demo (1) + visible progress (2) + TO-DO updates (2)
 
 ###Release 0.3 (due 10/2)
 
-TBD
+Demonstrate your project again, giving particular attention to progress that's been made since last time.  If the improvements are invisible (like database improvements on the back-end) then you can take some time to talk about those, too, but remember to tell us why those are important.  (IE what's the business value of doing that?)
+
+Commit the release and tag it as v0.3.
+
+From this point on, when I check the updated README file (due the following tuesday), I want you to also include a burndown chart.  This is a simple line chart showing the size of the remaining product backlog (either the # of items, or the total "size" in story points).  You should have at least one data point for each release (so, 3 data points at this time), or you could get really sophisticated and put a point on the chart for every change in the README.
+
+Grading criteria:  good demo (1) + visible progress (2) + TO-DO updates (1) + burndown chart (1).
 
 ###Release 0.4 (due 10/16)
 
-TBD
+Give another demonstration focusing on progress since the prevous verson.  Commit the code and tag it v0.4.  Update the README file and burndown chart by the following tuesday night.
+
+From this point onward, the project repo should include a folder called `tests` and there should be some documentation in the README file about 'how to test' or 'how to run the tests'.  Tests may be automated scripts or may be written documentation of manual test procedures.  Either way you must tell us how to carry out the tests.
+
+Grading criteria:  good demo (1) + visible progress (1) + tests (1) + TO-DO updates (1) + burndown chart (1).
 
 ###Release 0.5 (due 10/30)
 
-TBD
+Same as previous.
 
 ###Release 0.6 (due 11/13)
 
-TBD
+In this release, do all of the above but also set up some form of "continuous integration" which runs your tests and uploads the site to the live server if tests pass.  If you need to do this in a manual way (i.e. no automated tests), you should still do this and show (a) what the outcomes of the tests were and (b) when/where/how the version was pushed live.  You will want to make sure at this time that you are capable of going live -- because there are only a couple weeks left before you deliver the final product.
+
+On the documentaiton side, you should put together a web page for the product.  This can be done with GitHub Pages at no cost.  This could be very simple, sort of a stylish version of your README, that tells people basically what the product is and how to use it.  This is due with the updated README the following Tuesday.
+
+Grading criteria:  good demo (1) + visible progress (1) + tests/CI (1) + README updates (1) + project web page.
 
 ###Release 1.0 (due 12/2)
 
-TBD
+The "capstone project showcase" will occur on Dec. 2 in the MU.  You'll have a table and numerous guests (faculty, staff, students, and friends of the IS department, including recruiters) will be invited to see and hear about your work.  At this point you'll want to have a working demo of the product as well as a product website and a finalized README file.  You may want to prepare other things like documentation (e.g. user manual, or a product demo video).  Dress professionally or uniformly (company logo t-shirts anyone?) and be prepared to talk to strangers about your work.  You can make posters, handouts, or other materials if it will enhance your presentation.
+
+Grading criteria:  good demonstration (4) + product in shippable form (2) + tests pass (1) + README updates (1)
