@@ -8,5 +8,5 @@ Stuff for Tuesday:
 
 Stuff for Thursday:
 
-1. View the lecture by James Bach on software testing at http://youtu.be/ILkT_HV9DVU
+1. View the lecture by James Bach on software testing at http://youtu.be/ILkT_HV9DVU.  It's a long one but try to get at least halfway through it.
 2. Do the information radiator write-up and post to your team's repo.
