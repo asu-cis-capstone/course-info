@@ -16,7 +16,13 @@ Here's a list of meetups that I know about:
     - North Group meets Oct. 15, Nov 19
     - South Group meets Oct. 16, Nov 20
     - Several other events on calendar
-    
+- The Arizona Software Community
+    - Tuesday, October 7 at 7:00 PM
+    - Putting a presentation together on working with the C# MongoDB drivers. Aiming to cover serializing/deserializing
+    - C# classes to/from a collection as a... 
+    - Details: http://www.meetup.com/azsoftcom/events/117731852/
+
+
 *Want to practice your GitHub skills?  Fork this repo and add more groups to the list above.  Then create a "pull request" for me to accept your changes.*
 
 #### Policies & Exceptions
