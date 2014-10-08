@@ -21,6 +21,12 @@ Here's a list of meetups that I know about:
     - Putting a presentation together on working with the C# MongoDB drivers. Aiming to cover serializing/deserializing
     - C# classes to/from a collection as a... 
     - Details: http://www.meetup.com/azsoftcom/events/117731852/
+- Arizona SQL Server User Group (AZSSUG)
+    - Wednesday, October 8 at 4:30 PM
+    - The Modern Data Warehouse with Josh Sivey/Orion Gebremedhin
+    - Details: http://www.meetup.com/Arizona-SQL-Server-User-Group/events/200814022/
+- Big Data Developers in Phoenix
+    - http://www.meetup.com/Big-Data-Developers-in-Phoenix/
 
 
 *Want to practice your GitHub skills?  Fork this repo and add more groups to the list above.  Then create a "pull request" for me to accept your changes.*
