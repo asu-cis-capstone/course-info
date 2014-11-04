@@ -10,9 +10,9 @@ Click on the files in this directory for more information.  This is a brief over
     
 - Personal Project (8 pts)
     - You'll develop a small personal project, maybe a website, which demonstrates something new you've learned during this course.  Post it to a new GitHub repo.  This could be a project in code (HTML/CSS/JS/C#/etc) or something else creative (Photoshop or something?) but doesn't need to be a complete working application.  My expectation is either (a) a demo of some new tool/technology/language or (b) some kind of creative work in software, like a great new CSS theme.  It should *not* be part of coursework for CIS 425 or some other class -- you need to learn something new on your own initiative.  Since this is a GitHub repo, include a README file that tells me what's new about it.  Team or client didn't like your idea for a bright pink CSS theme or an animated talking paper clip?  Here's where you can show off your individuality.
-    - Create a new GitHub repository for your project; it can be under your personal account, not under asu-cis-capstone.
-    - Include a README file which says (a) what new, creative thing you did or (b) what new skill you learned and tried out.
-    - Fork *this* repo, and add a link to your project right here, then create a pull request for me to accept.  The result will be a list of all the projects right **here**:
+        - Create a new GitHub repository for your project; it can be under your personal account, not under asu-cis-capstone.
+        - Include a README file which says (a) what new, creative thing you did or (b) what new skill you learned and tried out.
+        - Fork *this* repo, and add a link to your project right here, then create a pull request for me to accept.  The result will be a list of all the projects right **here**:
         - first one...
         - second one...
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
