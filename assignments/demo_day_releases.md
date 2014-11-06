@@ -47,11 +47,11 @@ Same as previous.
 
 ###Release 0.6 (due 11/13)
 
-In this release, do all of the above but also set up some form of "continuous integration" which runs your tests and uploads the site to the live server if tests pass.  If you need to do this in a manual way (i.e. no automated tests), you should still do this and show (a) what the outcomes of the tests were and (b) when/where/how the version was pushed live.  You will want to make sure at this time that you are capable of going live -- because there are only a couple weeks left before you deliver the final product.
+In this release, in addition to telling us how you are testing your product, you need to provide the *results* of those tests (and ideally, show that they are passing!).  If you are doing automated tests, you might look into a continuous integration method that runs your tests automatically every time you commit changes.  Either way, the results of your tests should be highly visible -- either in the README file, or in some other top-level file in your repo.
 
-On the documentaiton side, you should put together a web page for the product.  This can be done with GitHub Pages at no cost.  This could be very simple, sort of a stylish version of your README, that tells people basically what the product is and how to use it.  This is due with the updated README the following Tuesday.
+You are strongly encouraged to review your documentation and add to it.  You might create a project web page.  (Look into the GitHub Pages feature, in which every GitHub project can get a free web page hosted right in the repo.)  Or you might re-style the README, or even create a Wiki within GitHub.  These efforts are a big part of making your project "presentable" to the client and to others who will look at it, such as recruiters who are checking out your resume.
 
-Grading criteria:  good demo (1) + visible progress (1) + tests/CI (1) + README updates (1) + project web page.
+Grading criteria:  good demo (1) + visible progress (1) + tests *with results* (2) + README updates (1).
 
 ###Release 1.0 (due 12/2)
 
