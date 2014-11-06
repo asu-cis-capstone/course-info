@@ -32,7 +32,7 @@
 | 13     | Apr. 16 | integrating dev and ops                     | *The Phoenix Project* ch.8-16                  |                              | discussion + talk about bottleneck theory
 | 14     | Apr. 21 | making IT work for the business             | *The Phoenix Project* ch.17-end                | IS profession scavenger hunt | (guest speaker?)
 | 14     | Apr. 23 | departmental "exit interview"               | *???*                                          |                              |
-| 15     | Apr. 28 | **day of truth: capstone project showcase** | *???*                                          | release v1.0 on GitHub       | expectations: project is ready for the world
+| 15     | Apr. 28 | **day of truth: capstone project showcase** | *???*                                          | release v1.0 on GitHub       | expectations: project is ready for the world and success is measurable
 | 15     | Apr. 30 | CIS 440 retrospective                       | *???*                                          | final project report         |
 | finals | May 5   |                                             |                                                |                              |
 | week   | May 7   |                                             |                                                |                              |
