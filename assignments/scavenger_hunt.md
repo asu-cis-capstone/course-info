@@ -22,9 +22,9 @@ Here's a list of meetups that I know about:
     - C# classes to/from a collection as a... 
     - Details: http://www.meetup.com/azsoftcom/events/117731852/
 - Arizona SQL Server User Group (AZSSUG)
-    - Wednesday, October 8 at 4:30 PM
-    - The Modern Data Warehouse with Josh Sivey/Orion Gebremedhin
-    - Details: http://www.meetup.com/Arizona-SQL-Server-User-Group/events/200814022/
+    - Wednesday, Novemeber 12th at 4:30 PM
+    - SSAS Design and Performance Best Practices
+    - Details: http://www.meetup.com/Arizona-SQL-Server-User-Group/events/213409462/
 - Big Data Developers in Phoenix
     - http://www.meetup.com/Big-Data-Developers-in-Phoenix/
 
