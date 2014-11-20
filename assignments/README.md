@@ -14,7 +14,7 @@ Click on the files in this directory for more information.  This is a brief over
         - Include a README file which says (a) what new, creative thing you did or (b) what new skill you learned and tried out.
         - Fork *this* repo, and add a link to your project right here, then create a pull request for me to accept.  The result will be a list of all the projects right **here**:
             - Nick Gasser CIS440 1030am: https://github.com/ngasser/CIS440PersonalProject
-            - 
+            - second one
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
