@@ -16,6 +16,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Nick Gasser CIS440 1030am: https://github.com/ngasser/CIS440PersonalProject
             - Haley Ankenbauer CIS440 1:30pm: https://github.com/hmankenbauer/Haley-Ankenbauer
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject
+            -  [jmonje project](https://github.com/jsmonje/Personal-Project)
             - second one
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
