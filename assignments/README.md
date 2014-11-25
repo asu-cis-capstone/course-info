@@ -33,6 +33,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Jason Weeks CIS440 10:30am: https://github.com/JWeeksASU/WEATHER_band
             - Michael Vaughn CIS440 1030am: https://github.com/mjvaugh2/password-security
             - Greg Higgins CIS440 10:30am: https://github.com/gjhiggin/Personal-Project
+            - Jeff Maslowski CIS440 1:30pm: https://github.com/jmaslows/personalproject
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
