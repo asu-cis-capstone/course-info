@@ -29,6 +29,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Michael Hsieh CIS440 1:30pm: https://github.com/paulpoca2003/Personal-Project
             - Bryce Yncera CIS440 10:30: https://github.com/byncera/BryceYnceraPersonalProject
             - second one
+			- Matthew Abbruscato CIS440 10:30am: https://github.com/FatHalpert/CIS440CapstoneProject
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
             - Nicholas Schmitzer CIS440: 1:30pm: https://github.com/nschmitzer/nschmitzer
             - Emily Leung CIS440 10:30am: https://github.com/ecleung/Emily-Leung-Personal-Project
