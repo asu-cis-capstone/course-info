@@ -24,6 +24,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Nicholas Muscara CIS440 10:30am https://github.com/nickolonious/personalWebpage
             - Hon Pan Wong CIS440 10:30am: https://github.com/martin2918/CIS440PersonalProject
             - Carter Radliffe CIS440 1030am: https://github.com/cmradcl1/PersonalProject
+            - Michael Hsieh CIS440 1:30pm: https://github.com/paulpoca2003/Personal-Project
             - second one
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
             - Nicholas Schmitzer CIS440: 1:30pm: https://github.com/nschmitzer/nschmitzer
