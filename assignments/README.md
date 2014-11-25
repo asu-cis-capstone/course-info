@@ -37,6 +37,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Jeff Maslowski CIS440 1:30pm: https://github.com/jmaslows/personalproject
             - Ching Ya Huang CIS440 10:30am: https://github.com/abbyhg/personalProject
             - Tarun Gorowara CIS440 1:30pm: https://github.com/gorowara/CIS440-Gorowara-Project
+            - Christian Valenty CIS440 10:30: https://github.com/cvalenty/PersonalProject
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
