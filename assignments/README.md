@@ -21,6 +21,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Michael Capozello CIS440 1:30p.m. hhtps://github.com/MCapozello/PersonalProject
             - [jmonje project](https://github.com/jsmonje/Personal-Project)
             - Connor Eggleston CIS 440 1:30pm: https://github.com/connor-asu/red-blue-pill
+            - Nicholas Muscara CIS440 10:30am https://github.com/nickolonious/personalWebpage
             - second one
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
             - Nicholas Schmitzer CIS440: 1:30pm: https://github.com/nschmitzer/nschmitzer
