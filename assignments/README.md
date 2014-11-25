@@ -19,6 +19,7 @@ Click on the files in this directory for more information.  This is a brief over
             - John Wathen CIS440 10:30am: https://github.com/jwathen/AmercoRealEstate
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject 
             - Michael Capozello CIS440 1:30p.m. hhtps://github.com/MCapozello/PersonalProject
+            - [jmonje project](https://github.com/jsmonje/Personal-Project)
             - second one
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
