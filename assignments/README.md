@@ -39,6 +39,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Tarun Gorowara CIS440 1:30pm: https://github.com/gorowara/CIS440-Gorowara-Project
             - Christian Valenty CIS440 10:30: https://github.com/cvalenty/PersonalProject
             - Jennette Gutierrez CIS440 10:30AM https://github.com/jgtz2014/CIS440-JennetteGutierrez-PersonalProject
+            - Chia-Wei Wang CIS440 10:30AM https://github.com/cwang116/personal-project
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
