@@ -30,6 +30,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
             - Nicholas Schmitzer CIS440: 1:30pm: https://github.com/nschmitzer/nschmitzer
             - Emily Leung CIS440 10:30am: https://github.com/ecleung/Emily-Leung-Personal-Project
+            - Jason Weeks CIS440 10:30am: https://github.com/JWeeksASU/WEATHER_band
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
