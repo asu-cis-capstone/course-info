@@ -19,6 +19,7 @@ Click on the files in this directory for more information.  This is a brief over
             - John Wathen CIS440 10:30am: https://github.com/jwathen/AmercoRealEstate
             - second one
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
+            - Thanh Nguyen CIS440 1:30pm: https://github.com/tnnguye4/CIS440-Personal-Project
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
