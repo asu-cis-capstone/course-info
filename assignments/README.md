@@ -10,7 +10,7 @@ Click on the files in this directory for more information.  This is a brief over
     
 - Personal Project (8 pts)
     - You'll develop a small personal project, maybe a website, which demonstrates something new you've learned during this course.  Post it to GitHub and include a README file that tells me what's new about it.  Team or client didn't like your idea for a bright pink CSS theme or an animated talking paper clip?  Here's where you can show off your individuality.
-    https://github.com/gorowara/CIS440-Gorowara-Project
+    Tarun Gorowara CIS440 1:30pm: https://github.com/gorowara/CIS440-Gorowara-Project
 
 - Tech Talk (8pts)
     - In small groups (not necessarily your project team) you'll investigate some new tool or technique that may be useful on your projects, and give the class a short talk and demonstration.  I'll provide a schedule for sign-ups soon.
