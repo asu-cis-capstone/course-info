@@ -23,11 +23,11 @@
 | 9      | Mar. 17 | quality                                     | *???*                                          |                              | lecture on Deming, on usability, and an intro to software QC
 | 9      | Mar. 19 | techtalks: usability testing                | *???*                                          |                              |
 | 10     | Mar. 24 | techtalks: analytics + SEO                  | *???*                                          |                              |
-| 10     | Mar. 26 | **demo day 4**                              | *???*                                          | release v0.5 on GitHub       | expectations: new features and by now we have feedback from live users
+| 10     | Mar. 26 | **demo day 5**                              | *???*                                          | release v0.5 on GitHub       | expectations: new features and by now we have feedback from live users
 | 11     | Mar. 31 | testing software                            | youtu.be/ILkT_HV9DVU                           |                              | automated + manual testing, traceability (guest speaker?)
 | 11     | Apr. 2  | techtalks: automated testing                | youtu.be/ukm64IUANwE                           |                              | maybe drop video if i can do a similar tech talk
 | 12     | Apr. 7  | techtalks: continous integration            | *youtu.be/NnFeIt-uaEc?*                        |                              |
-| 12     | Apr. 9  | **demo day 5**                              | *???*                                          | release v0.6 on GitHub       | expectations: major bugs eliminated; attention given to quality control
+| 12     | Apr. 9  | **demo day 6**                              | *???*                                          | release v0.6 on GitHub       | expectations: major bugs eliminated; attention given to quality control
 | 13     | Apr. 14 | challenges in IT operations                 | *The Phoenix Project* ch.1-7                   |                              | discussion + value stream mapping exercise
 | 13     | Apr. 16 | integrating dev and ops                     | *The Phoenix Project* ch.8-16                  |                              | discussion + talk about bottleneck theory
 | 14     | Apr. 21 | making IT work for the business             | *The Phoenix Project* ch.17-end                | IS profession scavenger hunt | (guest speaker?)
