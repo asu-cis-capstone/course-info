@@ -13,6 +13,7 @@ Click on the files in this directory for more information.  This is a brief over
         - Create a new GitHub repository for your project; it can be under your personal account, not under asu-cis-capstone.
         - Include a README file which says (a) what new, creative thing you did or (b) what new skill you learned and tried out.
         - Fork *this* repo, and add a link to your project right here, then create a pull request for me to accept.  The result will be a list of all the projects right **here**:
+            - Maryanne Mobley CIS440 1:30pm: https://github.com/memobley/PersonalProject
             - Anthony Dang CIS440 1:30pm: https://github.com/APDang/CIS440-Personal-Website
             - Rafael Bernal CIS440 1:30pm https://github.com/rbernal3/PersonalProject
             - Nick Gasser CIS440 1030am: https://github.com/ngasser/CIS440PersonalProject
