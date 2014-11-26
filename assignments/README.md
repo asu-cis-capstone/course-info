@@ -50,6 +50,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Calvin Crow CIS440 10:30am: https://github.com/Crowmagnon0/CalvinCrowPersonalProject
             - Chia-Wei Wang CIS440 10:30AM https://github.com/cwang116/personal-project
 			- Tyler Matteson CIS440 10:30am: https://github.com/tymattes/CIS440PersonalProject
+            - Gilberto Lopez CIS440 1:30pm: https://github.com/glopezch/Personal-Project
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
