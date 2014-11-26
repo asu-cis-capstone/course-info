@@ -45,6 +45,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Francis Ogertschnig CIS440 10:30am https://github.com/FrancisOgertschnig/CIS440/tree/master/440%20Project
             - Michael Buckley CIS440 1:30pm: https://github.com/mfbuckle/CIS440_Personal-Project
             - Thanh Nguyen CIS440 1:30pm: https://github.com/tnnguye4/CIS440-Personal-Project
+            - Jordan Bredehoeft CIS440 1:30pm: https://github.com/jordanbredehoeft/personalPortfolio
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
