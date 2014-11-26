@@ -20,7 +20,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject
             - John Wathen CIS440 10:30am: https://github.com/jwathen/AmercoRealEstate
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject 
-            - Michael Capozello CIS440 1:30p.m. hhtps://github.com/MCapozello/PersonalProject
+            - Michael Capozello CIS440 1:30p.m. https://github.com/MCapozello/PersonalProject
             - [jmonje project](https://github.com/jsmonje/Personal-Project)
             - Connor Eggleston CIS 440 1:30pm: https://github.com/connor-asu/red-blue-pill
             - Nicholas Muscara CIS440 10:30am https://github.com/nickolonious/personalWebpage
