@@ -13,6 +13,7 @@ Click on the files in this directory for more information.  This is a brief over
         - Create a new GitHub repository for your project; it can be under your personal account, not under asu-cis-capstone.
         - Include a README file which says (a) what new, creative thing you did or (b) what new skill you learned and tried out.
         - Fork *this* repo, and add a link to your project right here, then create a pull request for me to accept.  The result will be a list of all the projects right **here**:
+            - Maryanne Mobley CIS440 1:30pm: https://github.com/memobley/PersonalProject
             - Anthony Dang CIS440 1:30pm: https://github.com/APDang/CIS440-Personal-Website
             - Rafael Bernal CIS440 1:30pm https://github.com/rbernal3/PersonalProject
             - Nick Gasser CIS440 1030am: https://github.com/ngasser/CIS440PersonalProject
@@ -20,7 +21,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject
             - John Wathen CIS440 10:30am: https://github.com/jwathen/AmercoRealEstate
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject 
-            - Michael Capozello CIS440 1:30p.m. hhtps://github.com/MCapozello/PersonalProject
+            - Michael Capozello CIS440 1:30p.m. https://github.com/MCapozello/PersonalProject
             - [jmonje project](https://github.com/jsmonje/Personal-Project)
             - Connor Eggleston CIS 440 1:30pm: https://github.com/connor-asu/red-blue-pill
             - Nicholas Muscara CIS440 10:30am https://github.com/nickolonious/personalWebpage
@@ -44,6 +45,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Francis Ogertschnig CIS440 10:30am https://github.com/FrancisOgertschnig/CIS440/tree/master/440%20Project
             - Michael Buckley CIS440 1:30pm: https://github.com/mfbuckle/CIS440_Personal-Project
             - Thanh Nguyen CIS440 1:30pm: https://github.com/tnnguye4/CIS440-Personal-Project
+            - Jordan Bredehoeft CIS440 1:30pm: https://github.com/jordanbredehoeft/personalPortfolio
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
@@ -64,3 +66,4 @@ Click on the files in this directory for more information.  This is a brief over
 
 - Capstone Project Report (10 pts)
     - Here I'm looking for a 20+ page report which tells the story of your project.  It will include sections on the client, the team, the problem, the solution, installation guidelines, instruction manual, and you can round it out with design documents (database schema, etc), screenshots, and more.  The goal is a "success story" that you can show at job interviews and I can show to future potential CIS440 clients, as well as a "history" of this class.  It will need to be professionally written and edited with an executive summary, table of contents, references, and appendixes if necessary.
+
