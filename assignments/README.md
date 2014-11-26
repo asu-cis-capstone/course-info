@@ -16,6 +16,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Maryanne Mobley CIS440 1:30pm: https://github.com/memobley/PersonalProject
             - Anthony Dang CIS440 1:30pm: https://github.com/APDang/CIS440-Personal-Website
             - Rafael Bernal CIS440 1:30pm https://github.com/rbernal3/PersonalProject
+            - Lenka Konecny CIS 440 1:30pm: https://github.com/LenkaKon/Lenka-Konecny-Personal-Project
             - Nick Gasser CIS440 1030am: https://github.com/ngasser/CIS440PersonalProject
             - Haley Ankenbauer CIS440 1:30pm: https://github.com/hmankenbauer/Haley-Ankenbauer
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject
