@@ -47,6 +47,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Michael Buckley CIS440 1:30pm: https://github.com/mfbuckle/CIS440_Personal-Project
             - Thanh Nguyen CIS440 1:30pm: https://github.com/tnnguye4/CIS440-Personal-Project
             - Jordan Bredehoeft CIS440 1:30pm: https://github.com/jordanbredehoeft/personalPortfolio
+            - Calvin Crow CIS440 10:30am: https://github.com/Crowmagnon0/CalvinCrowPersonalProject
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
