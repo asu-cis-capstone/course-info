@@ -15,6 +15,7 @@ Click on the files in this directory for more information.  This is a brief over
         - Fork *this* repo, and add a link to your project right here, then create a pull request for me to accept.  The result will be a list of all the projects right **here**:  
             - Steven Padilla CIS440 3:43am: https://github.com/sapadilla/CIS440-Personal-Website
             - Maryanne Mobley CIS440 1:30pm: https://github.com/memobley/PersonalProject
+            - Erin Sherman CIS440 1:30 pm: https://github.com/etsherma/personalproject
             - Anthony Dang CIS440 1:30pm: https://github.com/APDang/CIS440-Personal-Website
             - Rafael Bernal CIS440 1:30pm https://github.com/rbernal3/PersonalProject
             - Lenka Konecny CIS 440 1:30pm: https://github.com/LenkaKon/Lenka-Konecny-Personal-Project
