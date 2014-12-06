@@ -60,6 +60,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Jerome Reyes CIS440 1:30PM : https://github.com/jpreyes92/PersonalProject
             - Nicholas Bishop CIS440 1:30PM : https://github.com/NickBishop93/Nicholas_Bishop_Personal_Project
             - Hashim Al-Assi CIS440 1:30PM: https://github.com/halassi/PersonalProject
+            - Henok Mekonnen CIS440 10:40PM: https://github.com/heny09/project440
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
