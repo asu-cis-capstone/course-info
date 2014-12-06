@@ -5,7 +5,7 @@ Click on the files in this directory for more information.  This is a brief over
 - Information Radiator Write-Up (5 pts)
     - We will be talking about empirical feedback loops in your product and process.  For this assignment you'll generate an idea or proposal for something your client might want you to build into the product, that will give him data feedback on the product, its users, or his business.
 
-- IT Profession Scavenger Hunt (15 pts)
+- IT Profession Scavenger Hunt (12 pts)
     - Attend three meetings of professional meetups or user groups.  There are dozens of these meetings on technology and business topics in the Phoenix area.  For each one, write a couple of paragraphs about what the group was, where and when, what the speaker topic was, and your general impressions of the meeting.  5 points each.
     
 - Personal Project (8 pts)
