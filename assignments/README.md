@@ -57,6 +57,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Gilberto Lopez CIS440 1:30pm: https://github.com/glopezch/Personal-Project
             - Sharang Ranjan CIS440 1:30PM : https://github.com/sharang9/personalproject
             - Roberto Llano CIS440 10:30am: https://github.com/rllano/PersonalProject
+            - Jerome Reyes CIS440 1:30PM : https://github.com/jpreyes92/PersonalProject
     - Grading criteria: innovative project (5pts) + GitHub repo/README (2pts) + pull request here (1pt)
     
 - Tech Talk (8pts)
