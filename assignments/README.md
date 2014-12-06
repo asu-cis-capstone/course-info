@@ -21,7 +21,6 @@ Click on the files in this directory for more information.  This is a brief over
             - Lenka Konecny CIS 440 1:30pm: https://github.com/LenkaKon/Lenka-Konecny-Personal-Project
             - Nick Gasser CIS440 1030am: https://github.com/ngasser/CIS440PersonalProject
             - Haley Ankenbauer CIS440 1:30pm: https://github.com/hmankenbauer/Haley-Ankenbauer
-            - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject
             - John Wathen CIS440 10:30am: https://github.com/jwathen/AmercoRealEstate
             - Matthew Henderson CIS440 1:30pm: https://github.com/mahende2/PersonalProject 
             - Michael Capozello CIS440 1:30p.m. https://github.com/MCapozello/PersonalProject
@@ -33,8 +32,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Michael Hsieh CIS440 1:30pm: https://github.com/paulpoca2003/Personal-Project
             - Bryce Yncera CIS440 10:30: https://github.com/byncera/BryceYnceraPersonalProject
             - Fan Chen CIS440 1:30 https://github.com/fchen30/Personal-Project
-            - second one
-			- Matthew Abbruscato CIS440 10:30am: https://github.com/FatHalpert/CIS440CapstoneProject
+            - Matthew Abbruscato CIS440 10:30am: https://github.com/FatHalpert/CIS440CapstoneProject
             - Sarah Kuczyk CIS440 10:30am: https://github.com/sakuczyk/Personal-Project
             - Nicholas Schmitzer CIS440: 1:30pm: https://github.com/nschmitzer/nschmitzer
             - Emily Leung CIS440 10:30am: https://github.com/ecleung/Emily-Leung-Personal-Project
