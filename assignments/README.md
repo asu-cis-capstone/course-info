@@ -45,6 +45,7 @@ Click on the files in this directory for more information.  This is a brief over
             - Tarun Gorowara CIS440 1:30pm: https://github.com/gorowara/CIS440-Gorowara-Project
             - Christian Valenty CIS440 10:30: https://github.com/cvalenty/PersonalProject
             - Jennette Gutierrez CIS440 10:30AM https://github.com/jgtz2014/CIS440-JennetteGutierrez-PersonalProject
+            - Truong-An Do CIS440 10:30AM https://github.com/twayne927573/440PersonalProject
             - Francis Ogertschnig CIS440 10:30am https://github.com/FrancisOgertschnig/CIS440/tree/master/440%20Project
             - Michael Buckley CIS440 1:30pm: https://github.com/mfbuckle/CIS440_Personal-Project
             - Thanh Nguyen CIS440 1:30pm: https://github.com/tnnguye4/CIS440-Personal-Project
