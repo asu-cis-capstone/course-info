@@ -36,6 +36,8 @@ Here's a list of meetups that I know about:
 I have been asked to make a couple of policies for other types of events.  This is what I've decided:
 
 - Training sessions at work, or provided by vendors, do *not* count.
+- Webinars or other recorded presentations (such as online classes) do *not* count.
 - Attending a professional conference may count for one of your required visits *per day of the conference* provided you attend sessions each day.  If it's a three-day conference, write about three of the sessions you attended and that will satisfy the requirement.
 - **Desert Code Camp** on Saturday, October 18, is a free, one-day conference for all kinds of techies in the Phoenix area.  I like it so much, I'll let you count *two* of the sessions toward this assignment even though they're on the same day. See: http://oct2014.desertcodecamp.com/home
+- If I make an exception to these guidelines for you, please remind me of it in your write-up!
 
