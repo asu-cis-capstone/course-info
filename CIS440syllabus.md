@@ -37,7 +37,7 @@ Three textbooks are required reading for this course:
 1. *The Phoenix Project*, by Gene Kim, Kevin Behr, & George Spafford.  IT Revolution Press, 2013.   ISBN: 978-0988262508   ($14 on Amazon)
 
 ####Course Schedule
-Posted to GitHub at https://github.com/asu-cis-capstone/course-info/blob/master/CIS440FALL2014schedule.pdf
+Posted to GitHub at https://github.com/asu-cis-capstone/course-info/blob/master/CIS440schedule.md
 
 ####W. P. Carey School Learning Objectives
 The Undergraduate Program of the W. P. Carey School of Business has established the following learning goals for its graduates:
