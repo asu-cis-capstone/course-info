@@ -39,6 +39,8 @@
 
 #### Assignments
 
+(This section is incomplete and should not be taken as final.)
+
 - IS Profession Scavenger Hunt includes:
     - one of your own business cards
     - print your github.com/yourname page
