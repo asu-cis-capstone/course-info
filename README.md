@@ -7,7 +7,7 @@ Syllabus and schedule will still be subject to minor changes throughout the seme
 
 ###Files
 
-- Syllabus: Click CIS440FALL2014syllabus.md
+- Syllabus: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440syllabus.md
 - Schedule: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440schedule.md
 
 All materials subject to change.
