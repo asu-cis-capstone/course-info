@@ -27,7 +27,7 @@ At the end of this course, you should be able to:
 - demonstrate the ability to learn new tools and techniques when needed; and
 - show off a completed Capstone project as part of your professional portfolio.
 
-This course and the capstone project are the final milestones of your CIS degree program and you are expected to put forth a great deal of effort.  You will need to dedicate a significant amount of outside time for homework, project work, and meetings with your team and your clients.
+This course and the capstone project are the final milestones of your CIS degree program and you are expected to put forth a great deal of effort.  You will need to dedicate a significant amount of outside time for readings, project work, and meetings with your team and your clients.
 
 ####Course Materials 
 Three textbooks are required reading for this course:
@@ -54,7 +54,7 @@ All five items have significant coverage in this course.
 Grades will be assigned based on the following scale:
 
 <60: E  
-60-69.99: D  
+60-69.99: D 
 70-76.99: C  
 77-79.99: C+  
 80-82.99: B-  
@@ -66,11 +66,32 @@ Grades will be assigned based on the following scale:
 
 ####Assignments
 Course assignments are weighted toward the final grade as follows:
+**Individual Grades (51%)**
 
-**(TBD)**
+| Assignment                   | Due Date    | Points |
+|:---------------------------- |:-----------:|:------:|
+| Quizzes (x8)                 | surprise    | 8x2=16 |
+| IS Profession Scavenger Hunt | Apr. 21     | 15     |
+| Tech Talk                    | various     | 10     |
+| CIS Skills Assessment        | finals week | 10     |
+
+**Team Grades (50%)**
+
+| Assignment              | Due Date | Points |
+|:----------------------- |:--------:|:------:|
+| Version 0.1             | Jan. 29  | 4      |
+| Version 0.2             | Feb. 12  | 4      |
+| Version 0.3             | Feb. 26  | 4      |
+| Version 0.4             | Mar. 12  | 4      |
+| Version 0.5             | Mar. 26  | 4      |
+| Version 0.6             | Apr. 9   | 4      |
+| Version 1.0             | Apr. 28  | 8      |
+| Capstone Project Report | Apr. 30  | 8      |
+| Client Feedback         | May 7    | 10     |
+
 
 ####Email/Online Communication 
-One of my jobs is to help you deal with obstacles and get the resources or help you need to succeed in this projects, so I encourage you to stay in communication with me.  When e-mailing me, please indicate in the subject line that it is for CIS 440 and which section you are in.  Be sure to sign it with your full name, and state your problem clearly.  You can expect me to check my e-mail at the beginning and end of the work day, but not necessarily on weekends or at night.  If you think you’ll need urgent help outside of the work week, let me know in advance.
+One of my jobs is to help you deal with obstacles and get the resources or help you need to succeed in these projects, so I encourage you to stay in communication with me.  When e-mailing me, please indicate in the subject line that it is for CIS 440 and which section you are in.  Be sure to sign it with your full name, and state your problem clearly.  You can expect me to check my e-mail at the beginning and end of the work day, but not necessarily on weekends or at night.  If you think you’ll need urgent help outside of the work week, let me know in advance.
 
 
 ####Examinations 
@@ -88,7 +109,7 @@ Class attendance is necessary to achieve the maximum benefit from this class. Yo
 - ASU calendar of religious holidays (sorry, Pastafarians): https://provost.asu.edu/index.php?q=religious-holiday-calendar
 - Policy on university-sanctioned activities (ACD 304-02): http://www.asu.edu/aad/manuals/acd/acd304-02.html
 
-####Academic Integrity  
+####Academic Integrity
 From the ASU General Catalog:  “The highest standards of academic integrity are expected of all students. Failure to meet these standards may result in suspension or expulsion from the university and other sanctions as specified in the academic integrity policies of the individual colleges.”  By law and regulation, this course will be conducted within the ethical standards of ASU at large, which preclude such activities as plagiarism, cheating, and various forms of harassment.  Statement/policy on these issues:    http://provost.asu.edu/academicintegrity
 
 ####Students with Disabilities
