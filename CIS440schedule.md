@@ -37,21 +37,3 @@
 | finals | May 5   |                                             |                                                |                              |
 | week   | May 7   |                                             |                                                |                              |
 
-#### Assignments
-
-(This section is incomplete and should not be taken as final.)
-
-- IS Profession Scavenger Hunt includes:
-    - one of your own business cards
-    - print your github.com/yourname page
-        - show "1 month" of contribution activity
-        - it should have a picture and some activity visible throughout the semester
-    - printouts of yourname.github.io, site which should contain *at least*:
-        - your "elevator speech" self-introduction
-        - an up-to-date resume
-        - your "portfolio" of projects
-    - "selfies" taken at 3 professional meetups or user groups, with notes on the date, location, group, speaker, meeting topic, and what you gained (e.g. contacts made, or something learned)
-    - 5 contributions to projects other than your own -- print screenshots of the "blame" pages so I can see what you did
-    - an IT-related cartoon that you think i'll enjoy
-    - piece of swag (or photo of self with piece of swag) from an IT vendor
-    
