@@ -66,6 +66,7 @@ Grades will be assigned based on the following scale:
 
 ####Assignments
 Course assignments are weighted toward the final grade as follows:
+
 **Individual Grades (51%)**
 
 | Assignment                   | Due Date    | Points |
