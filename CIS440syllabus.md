@@ -53,8 +53,8 @@ All five items have significant coverage in this course.
 ####Grade Breakdown
 Grades will be assigned based on the following scale:
 
-<60: E  
-60-69.99: D 
+<60: E 
+60-69.99: D
 70-76.99: C  
 77-79.99: C+  
 80-82.99: B-  
