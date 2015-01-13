@@ -10,6 +10,7 @@ Syllabus and schedule will still be subject to minor changes throughout the seme
 - Syllabus: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440syllabus.md
 - Schedule: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440schedule.md
 - Capstone Project Milestones: https://github.com/asu-cis-capstone/course-info/blob/master/project_assignments.md
+- Non-Project Assignments: https://github.com/asu-cis-capstone/course-info/blob/master/individual_assignments.md
 
 All materials subject to change.
 
