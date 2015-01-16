@@ -96,8 +96,14 @@ One of my jobs is to help you deal with obstacles and get the resources or help 
 
 
 ####Examinations 
+There is one final exam at the end of the course:
+- CIS Critical Skills Assessment:  There are several skills that are critical and foundational to the discipline of Information Systems and the practices of systems analysis and design, and mastery of these skills is our expectation for anyone possessing a degree certifying completion of a BS in Computer Information Systems from the W.P. Carey School of Business at Arizona State University.  To assure mastery of these skills, students will be given a skills assessment exam wherein they are presented with a business case study and expected to answer a series of questions that assess their level of competence with:
+    - Identification of business information systems requirements and proposal of appropriate information systems solutions.
+    - Using established methodologies for analysis and design of proposed solutions.
+    - Selecting an appropriate project management methodology, explaining the critical issues and uncertainties that will determine project success, and communicating these issues in business terms.
 
-**(TBD)**
+NOTE: This material is not an exam based only on CIS440 material, but instead is meant to evaluate the skills you have learned from the entire CIS undergraduate program.  You may bring any books or other references that you wish.
+	
 	
 ####Group Policies 
 You will form groups of 3-5 members for the course project.  It is important to make sure you are working well with your teammates.  When forming teams, it is *strongly* recommended that you communicate frankly about expectations and identify any potential problems early on.  At the time of the final exam, teammates will have a chance to grade one another on their performance.  If students would like to change their teams for a good reason, I will consider such changes on a case-by-case basis.
