@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/course-info.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/course-info)
 ###CIS440 Course Information
 
 This repository contains course materials for CIS440 students, including the syllabus, schedule, and assignments.
