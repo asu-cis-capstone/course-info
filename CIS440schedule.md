@@ -34,6 +34,6 @@
 | 14     | Apr. 23 | departmental "exit interview"               | *???*                                          |                              |
 | 15     | Apr. 28 | **day of truth: capstone project showcase** | *???*                                          | release v1.0 on GitHub       | expectations: project is ready for the world and success is measurable
 | 15     | Apr. 30 | CIS 440 retrospective                       | *???*                                          | final project report         |
-| finals | May 5   |                                             |                                                |                              |
-| week   | May 7   |                                             |                                                |                              |
+| finals | May 5   |  10:30pm section FINAL: 9:50-11:40am  |                                                |                              |
+| week   | May 7   |  9am section FINAL: 7:30-9:20am; 1:30pm section FINAL: 12:10-2:00pm   |                                                |                              |
 
