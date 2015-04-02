@@ -13,10 +13,6 @@ Find a container -- a manila envelope, potato sack, cigar box, or something -- a
     - it should have a picture and some activity visible throughout the semester
 - piece of swag (or photo of self with piece of swag) from an IT vendor
 - 3 non-trivial contributions to open-source projects other than your own -- print screenshots of the "blame" pages so I can see what you did
-- printouts of yourname.github.io, site which should contain *at least*:
-    - your "elevator speech" self-introduction
-    - an up-to-date resume
-    - your "portfolio" of projects
 - "selfies" taken at 3 professional meetups or user groups, with notes on the date, location, group, speaker, meeting topic, and what you gained from each (e.g. contacts made, or something learned)
 
 Deliver the completed scavenger hunt materials to me by April 21 for grading.  You can have your items and container back after I grade them during finals week.
