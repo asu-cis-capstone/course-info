@@ -29,6 +29,8 @@ Some more information about the final requirement.  Professional and technology 
 - The Arizona Software Community (http://www.meetup.com/azsoftcom/)
 - Arizona SQL Server User Group (AZSSUG) (http://www.meetup.com/arizona-sql-server-user-group/)
 - Big Data Developers in Phoenix (http://www.meetup.com/Big-Data-Developers-in-Phoenix/)
+- CactusCon (http://www.cactuscon.com/)
+    - March 13, 2015
 
 I have been asked to make a couple of policies for other types of events.  This is what I've decided:
 
