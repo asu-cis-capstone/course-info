@@ -11,5 +11,6 @@ Syllabus and schedule will still be subject to minor changes throughout the seme
 - Schedule: https://github.com/asu-cis-capstone/course-info/blob/master/CIS440scheduleFALL2015.pdf
 - Group Capstone Project Milestones: https://github.com/asu-cis-capstone/course-info/blob/master/group_assignments.pdf
 - Individual Research Project Assignments: https://github.com/asu-cis-capstone/course-info/blob/master/individual_assignments.pdf
+- W.P. Carey School of Business Undergraduate Honor Code: https://github.com/asu-cis-capstone/course-info/blob/master/Undergraduate-Honor-Code.pdf
 
 All materials subject to change.
